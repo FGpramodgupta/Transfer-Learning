@@ -1,4 +1,4 @@
 # Transfer-Learning
 
 
-Credit - Krish Naik and Keras documents.
+Source - Krish Naik and Keras documents.
